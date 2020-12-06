@@ -204,8 +204,8 @@ a {
 }
 
 #writings a {
-    text-shadow: none !important;
-    text-decoration: underline !important;
+    text-shadow:black !important;
+    text-decoration: underline!important;
     color: blue !important;
 }
 
@@ -219,8 +219,13 @@ a {
 
 .contact_1 h3 {
     display: inline;
+    text-decoration-color: azure;
+    font-family: 'Texturina';
 }
 
-.contact_1 a {
-    color: white;
+
+.contact_1 h4{
+    display: inline;
+    text-decoration-color: aliceblue;
+     font-family: 'Texturina';
 }
